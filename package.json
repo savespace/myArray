@@ -1,0 +1,29 @@
+{
+  "name": "tablice",
+  "version": "1.0.0",
+  "description": "array",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "git": "^0.1.5",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "myarray"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/myArray.git"
+  },
+  "keywords": [
+    "kodilla-myArray"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/myArray/issues"
+  },
+  "homepage": "https://github.com/savespace/myArray#readme"
+}
